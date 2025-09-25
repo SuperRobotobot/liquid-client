@@ -1,0 +1,11 @@
+[
+  {
+    "version-minecraft": "1.21.8",
+    "new-version-minecraft": false,
+    "line-text-1": "", 
+    "line-text-2": "",
+    "version": "1.0.1",
+    "download": "https://your-site.com/download",
+    "changelog": "Bug fixes and improvements"
+  }
+]
