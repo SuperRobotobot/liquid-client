@@ -4,10 +4,11 @@
     "new-version-minecraft": false,
     "line-text-1": "", 
     "line-text-2": "",
-    "version": "1.0.1",
+    "version": "1.2.2",
     "download": "https://modrinth.com/modpack/liquid-client",
-    "changelog": "Added automatic updates and new versions of mods"
+    "changelog": "Fixed version"
   }
 
 ]
+
 
