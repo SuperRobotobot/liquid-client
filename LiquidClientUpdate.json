@@ -4,8 +4,9 @@
     "new-version-minecraft": false,
     "line-text-1": "", 
     "line-text-2": "",
-    "version": "1.0.1",
+    "version": "1.2.2",
     "download": "https://your-site.com/download",
-    "changelog": "Bug fixes and improvements"
+    "changelog": "Fixed version"
   }
+
 ]
