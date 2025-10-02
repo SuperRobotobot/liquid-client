@@ -4,11 +4,11 @@
     "new-version-minecraft": false,
     "line-text-1": "", 
     "line-text-2": "",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "download": "https://modrinth.com/modpack/liquid-client",
-    "changelog": "Fixed version"
+    "changelog": "Added new mod updates, removed Microsoft telemetry, added possibility to join every serwer version in minecraft"
   }
-
 ]
+
 
 
